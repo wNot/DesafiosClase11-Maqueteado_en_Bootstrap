@@ -1,0 +1,12 @@
+.bgimg
+{
+    background-image: url('https://blog-andertons.imgix.net/wp-content/uploads/2020/03/brad-stallcup-7Ueh8gYbsBc-unsplash.jpg?auto=compress&amp;h=1300');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imgredes
+{
+    width: 2rem;
+    height: 2rem;
+}
